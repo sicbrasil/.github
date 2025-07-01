@@ -1,3 +1,5 @@
+<img src="image/sic1.png" style="width: 100%;">
+
 # 🚀 Samsung Innovation Campus - IFCE Caucaia 🚀
 
 Bem-vindo ao repositório oficial do **Programa Samsung Innovation Campus (SIC) 2025**, uma iniciativa do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - Campus Caucaia em parceria com o Laboratório de Sistemas Integráveis Tecnológicos (LSI-TEC).
@@ -93,5 +95,9 @@ Em caso de empate, os critérios de desempate são:
 Para mais informações ou dúvidas, entre em contato:
 * **E-mail:** [direcao@caucaia.ifce.edu.br](mailto:direcao@caucaia.ifce.edu.br)
 * **Página do Campus:** [www.ifce.edu.br/caucaia](http://www.ifce.edu.br/caucaia)
+
+---
+
+<img src="image/sic2.png" style="width: 100%;">
 
 ---
